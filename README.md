@@ -1,8 +1,11 @@
 VERSIONES 
 
-NPM 6.14.9
-React 17.0.2
-Se utilizo la libreria AXIOS
+NPM 6.14.9,
+React 17.0.2, Axios,
+Bootstrap.
+
+![image](https://user-images.githubusercontent.com/44844160/115718575-3d38ba00-a349-11eb-83d2-f392346088b1.png)
+
 
 
 # Getting Started with Create React App
