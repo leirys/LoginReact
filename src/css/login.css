@@ -206,6 +206,7 @@ html {
     -webkit-animation-delay: 0.4s;
     -moz-animation-delay: 0.4s;
     animation-delay: 0.4s;
+    padding: 25px;
   }
   
   .fadeIn.second {
